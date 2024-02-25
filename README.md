@@ -15,7 +15,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
 
-# Online-Food-Ordering-Web-App
+# Online-Food-Donating-Web-App
 Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.kajadhav.me
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -30,8 +30,7 @@ Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live
 </details>
 
 ## System Description and Functions
-**Live Demo:** http://food.kajadhav.me<br/>
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png"><br/>
+<img src="images/banner.png"><br/>
 
 **Admin Creds:** <br/>
 Admin Login & Password (You can change this in phpmyadmin):<br/>
@@ -62,8 +61,6 @@ Admin can:<br/>
     <li>Resolve Support Tickets</li>
 </ol>
 
-### Screenshots
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
 
 ## Built With
 ![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&amp;logo=php&amp;logoColor=white)
@@ -76,30 +73,10 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 ## Installation
 <ol>
 <li>Download and install XAMPP/WAMP/LAMP server and download the files of this project</li>
-<li>Copy the folder of this project in your xampp/htdocs/www folder</li>
+<li>Copy the folder of this project in your xampp/htdocs folder</li>
 <li>Start XAMMP. Start Apache and SQL server. Go to phpmyadmin and create a new database named 'food'</li>
 <li>Go to the food database created and click on 'Import' option in the top menu</li>
 <li>Upload the food.sql file and import it</li>
-<li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
+<li>Open your web browser and check if you got the website running on your localhost (http://localhost/"folder_name")</li>
 </ol>
 
-## Authors
-### Kaushik Jadhav
-<ul>
-<li>Github: https://github.com/kaushikjadhav01</li>
-<li>Medium: https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn: https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio: http://kajadhav.me/</li>
-<li>Linked In: https://www.linkedin.com/in/kajadhav/
-<li>Dev.to: https://dev.to/kaushikjadhav01
-<li>Codesignal: https://app.codesignal.com/profile/kaushik_j_vtc
-<li>Google Scholar: https://scholar.google.com/citations?user=iRYcFi0AAAAJ
-<li>Daily.dev: https://app.daily.dev/kaushikjadhav01
-<li>Google devs: https://developers.google.com/profile/u/kaushikjadhav01
-<li>Stack Overflow: https://stackoverflow.com/users/21890981/kaushik-jadhav
-</ul>
-
-## Links
-* [Web site](http://food.kajadhav.me/)
-* [Issue tracker](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/issues)
-* [Source code](https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App)
