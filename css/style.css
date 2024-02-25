@@ -625,6 +625,12 @@ ul.tags li a, ul.social_icon li a,
 .navbar-brand {
   height: auto;
 }
+
+.navbar-brand img{
+  height:60px;
+  width: 60px;
+}
+
 #main-navigation .navbar-brand{
 	padding:24px 0;
 }
@@ -2034,9 +2040,10 @@ h3{font-size:20px;}
 h4{font-size:16px;}
 p{ font-size:14px; }
 .topbar p { font-size: 12px; }
+
 .navbar-brand {
   padding: 0;
-  max-width:140px;
+  max-width:150px;
 }
 .navbar-brand > img{ width:75%; }
 .navbar-default .navbar-nav > li > a { font-size: 12px; }
