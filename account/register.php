@@ -109,7 +109,7 @@ else{
                 <li>
                    <a href="../index.html">Home</a>
                 </li>
-                <li><a href="../food.html">Our Food</a></li>
+                <li><a href="../food.html">Our Mission</a></li>
                 <li><a href="../about.html">About</a></li>
                 <li><a href="../faq.html">FAQ</a></li>
               </ul>
