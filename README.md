@@ -16,7 +16,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
 
 # Online-Food-Donating-Web-App
-Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.kajadhav.me
+Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: https://prarthana234.github.io/Google-Solutions/
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
